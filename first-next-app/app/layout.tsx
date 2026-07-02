@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "My App",
+  description: "whatever you want",
+};
+
 export default function RootLayout({
   children,
 }: {
